@@ -243,21 +243,3 @@ src/
   index.ts
   config.ts
 ```
-
----
-
-# Future Improvements
-
-Possible improvements for the project:
-
-- Better formatted output for posts
-- Search functionality
-- Feed categories
-- Background daemon mode
-- Web interface
-
----
-
-# License
-
-This project was created for educational purposes.
